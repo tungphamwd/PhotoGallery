@@ -1,0 +1,4 @@
+.galleryBox {
+    display: flex;
+    flex-wrap: wrap;
+}
